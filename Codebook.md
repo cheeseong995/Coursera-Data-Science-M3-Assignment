@@ -12,8 +12,8 @@ Variables kept
 
 Only variables estimated from the mean and standard deviation were
 kept  
-\* mean(): Mean value  
-\* std(): Standard Deviation
+* mean(): Mean value  
+* std(): Standard Deviation
 
 Activities
 ----------
@@ -22,8 +22,8 @@ The subject colum in numbered sequentially from 1 to 30. Activity column
 has 6 types as listed below.
 
 1.  WALKING
-2.  WALKING\_UPSTAIRS
-3.  WALKING\_DOWNSTAIRS
+2.  WALKING_UPSTAIRS
+3.  WALKING_DOWNSTAIRS
 4.  SITTING
 5.  STANDING
 6.  LAYING
