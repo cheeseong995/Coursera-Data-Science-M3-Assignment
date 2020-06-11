@@ -5,7 +5,7 @@ Data Description
 ----------------
 
 The tidy data contains 180 rows and 68 columns. Each row has averaged
-variables for each 30 subjects and each activity
+variables for each 30 subjects and each activities
 
 Variables kept
 --------------
