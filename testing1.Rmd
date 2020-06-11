@@ -2,7 +2,7 @@
 title: "Testing"
 author: "CS"
 date: "June 11, 2020"
-output: md_document
+output: rmarkdown::markdown
 ---
 
 ```{r setup, include=FALSE}
