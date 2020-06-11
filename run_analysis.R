@@ -1,5 +1,4 @@
 library(dplyr)
-library(data.table)
 
 # Initialize the data
 # read the data for the training set
@@ -18,7 +17,7 @@ var_names <- read.table("./UCI HAR Dataset/features.txt")
 # read activity labels
 act_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 
-#_____________________________________________________________________
+#____________________________________________________________________________________________
 
 # 1. Merge the training and the test sets to create one data set
 x_total <- rbind(x_train, x_test)
